@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Josh
 <br>
-<strong>A developer with a passion for sports data</strong>
+<strong>A developer with a passion for sports data.</strong>
 
 <!--
 **MackieJG/MackieJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
