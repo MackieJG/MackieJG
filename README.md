@@ -4,9 +4,9 @@
 <br><br>
  I'm a Software Developer looking for a role.
 <br><br>
- I have put together [Junior Dev Resources](https://www.juniordevresources.com) for aspiring developers to keep track of useful resources for learning all things code.
+ I have put together [Junior Dev Resources](/https://www.juniordevresources.com) for aspiring developers to keep track of useful resources for learning all things code.
 <br><br>
- Shoot me an email at joshuamackie10@gmail.com or visit my [website](https://www.mackiejg.com).
+ Shoot me an email at joshuamackie10@gmail.com or visit my [website](/https://www.mackiejg.com).
 
 
 
