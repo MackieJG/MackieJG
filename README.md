@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A developer with a passion for sports data and youth financial education.</h3>
 
+
 - I’m a Software Engineer looking for a new role.
 
 - I have put together a set of **[Junior Dev Resources](https://www.juniordevresources.com/javascript)**, for other junior developers looking to consolidate their resources in one place.
