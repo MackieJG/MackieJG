@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelsie</h1>
+<h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A developer with a passion for sports data and youth financial education.</h3>
 
 - I’m a Software Engineer looking for a new role.
